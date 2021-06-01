@@ -1,0 +1,100 @@
+newmtl acacia_planks
+Kd 0.6593 0.3544 0.1970
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/acacia_planks.png
+
+newmtl acacia_trapdoor
+Kd 0.6145 0.3420 0.2011
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/acacia_trapdoor.png
+map_d tex/acacia_trapdoor.png
+
+newmtl alban_painting
+Kd 0.4407 0.3570 0.0938
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/alban_painting.png
+
+newmtl allium
+Kd 0.6234 0.5381 0.7213
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/allium.png
+map_d tex/allium.png
+
+newmtl ancient_debris_side
+Kd 0.3754 0.2500 0.2191
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/ancient_debris_side.png
+
+newmtl ancient_debris_top
+Kd 0.3718 0.2607 0.2292
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/ancient_debris_top.png
+
+newmtl andesite
+Kd 0.5339 0.5344 0.5364
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/andesite.png
+
+newmtl anvil_side
+Kd 0.2687 0.2687 0.2687
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/anvil_side.png
+
+newmtl anvil_top
+Kd 0.2844 0.2844 0.2844
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/anvil_top.png
+map_d tex/anvil_top.png
+
+newmtl armor_chainmail_chest
+Kd 0.6445 0.6411 0.6445
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_chainmail_chest.png
+map_d tex/armor_chainmail_chest.png
+
+newmtl armor_chainmail_feet
+Kd 0.6458 0.6464 0.6458
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_chainmail_feet.png
+map_d tex/armor_chainmail_feet.png
+
+newmtl armor_chainmail_helmet
+Kd 0.6445 0.6411 0.6445
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_chainmail_helmet.png
+map_d tex/armor_chainmail_helmet.png
+
+newmtl armor_chainmail_legs
+Kd 0.6458 0.6464 0.6458
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_chainmail_legs.png
+map_d tex/armor_chainmail_legs.png
+
+newmtl armor_diamond_chest
+Kd 0.2961 0.8639 0.7995
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_diamond_chest.png
+map_d tex/armor_diamond_chest.png
+
+newmtl armor_diamond_feet
+Kd 0.2511 0.8505 0.7867
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_diamond_feet.png
+map_d tex/armor_diamond_feet.png
+
+newmtl armor_diamond_helmet
+Kd 0.2961 0.8639 0.7995
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_diamond_helmet.png
+map_d tex/armor_diamond_helmet.png
+
+newmtl armor_diamond_legs
+Kd 0.2511 0.8505 0.7867
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armor_diamond_legs.png
+map_d tex/armor_diamond_legs.png
+
+newmtl armor_enchanted
+Kd 0.7885 0.7885 0.7885
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/armo
